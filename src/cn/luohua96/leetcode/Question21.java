@@ -38,11 +38,11 @@ public class Question21 {
     }
 }
 
-class ListNode {
-    int val;
-    ListNode next;
-
-    public ListNode(int val) {
-        this.val = val;
-    }
-}
+//class ListNode {
+//    int val;
+//    ListNode next;
+//
+//    public ListNode(int val) {
+//        this.val = val;
+//    }
+//}
